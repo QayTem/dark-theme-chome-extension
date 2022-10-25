@@ -1,6 +1,6 @@
 {
   "name": "Dark theme",
-  "description": "Dark theme for all pages",
+  "description": "Dark theme for all html doc",
   "version": "1.0",
   "manifest_version": 3,
   "permissions": ["storage", "activeTab", "scripting", "tabs", "webRequest"],
